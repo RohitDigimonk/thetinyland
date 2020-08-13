@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>nur.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>57D6B5A224C9E9762A583A77DA5926375BB35DFB</string>
+				<key>dateExpires</key>
+				<string>1/8/21</string>
+				<key>type</key>
+				<string>Apple Development</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>F4994CACJJ.org.reactjs.native.example.nurser</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>F4994CACJJ</string>
+				<key>get-task-allow</key>
+				<true/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>F4994CACJJ.org.reactjs.native.example.nurser</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>nur.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>4f6a80f1-0084-4424-a736-55eedc64b7c3</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: org.reactjs.native.example.nurser</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>F4994CACJJ</string>
+				<key>name</key>
+				<string>Gaurav Jain</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

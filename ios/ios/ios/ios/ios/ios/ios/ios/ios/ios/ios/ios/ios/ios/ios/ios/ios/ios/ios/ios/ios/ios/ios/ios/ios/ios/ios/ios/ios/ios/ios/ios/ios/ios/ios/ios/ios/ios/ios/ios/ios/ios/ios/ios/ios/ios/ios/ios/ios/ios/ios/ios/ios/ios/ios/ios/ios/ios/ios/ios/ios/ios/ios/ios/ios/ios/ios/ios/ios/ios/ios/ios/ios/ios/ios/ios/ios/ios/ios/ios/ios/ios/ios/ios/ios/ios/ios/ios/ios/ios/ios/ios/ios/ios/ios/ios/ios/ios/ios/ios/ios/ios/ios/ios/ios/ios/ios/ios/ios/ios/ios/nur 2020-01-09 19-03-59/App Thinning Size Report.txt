@@ -1,0 +1,85 @@
+
+App Thinning Size Report for All Variants of nur
+
+Variant: nur-29B1A1BA-CC3B-45C7-B0A6-3B2E41CC6452.ipa
+Supported variant descriptors: [device: iPad11,2, os-version: 13.0], [device: iPad8,7, os-version: 13.0], [device: iPad8,6, os-version: 13.0], [device: iPad7,6, os-version: 13.0], [device: iPad5,4, os-version: 13.0], [device: iPad7,2, os-version: 13.0], [device: iPad8,8, os-version: 13.0], [device: iPad5,2, os-version: 13.0], [device: iPad7,12, os-version: 13.0], [device: iPad6,4, os-version: 13.0], [device: iPad6,11, os-version: 13.0], [device: iPad8,5, os-version: 13.0], [device: iPad8,4, os-version: 13.0], [device: iPad11,4, os-version: 13.0], [device: iPad7,11, os-version: 13.0], [device: iPad5,3, os-version: 13.0], [device: iPad8,2, os-version: 13.0], [device: iPad7,4, os-version: 13.0], [device: iPad11,1, os-version: 13.0], [device: iPad7,3, os-version: 13.0], [device: iPad7,1, os-version: 13.0], [device: iPad6,8, os-version: 13.0], [device: iPad7,5, os-version: 13.0], [device: iPad6,12, os-version: 13.0], [device: iPad8,3, os-version: 13.0], [device: iPad6,3, os-version: 13.0], [device: iPad6,7, os-version: 13.0], [device: iPad5,1, os-version: 13.0], [device: iPad8,1, os-version: 13.0], and [device: iPad11,3, os-version: 13.0]
+App + On Demand Resources size: 2.5 MB compressed, 5.8 MB uncompressed
+App size: 2.5 MB compressed, 5.8 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: nur-6B5C2715-32FA-4F09-A7D6-74650F4D732D.ipa
+Supported variant descriptors: [device: iPad3,6, os-version: 9.0], [device: iPad3,1, os-version: 9.0], [device: iPad3,2, os-version: 9.0], [device: iPad3,4, os-version: 9.0], [device: iPad3,3, os-version: 9.0], and [device: iPad3,5, os-version: 9.0]
+App + On Demand Resources size: 2.6 MB compressed, 5.4 MB uncompressed
+App size: 2.6 MB compressed, 5.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: nur-7FF0473A-9CC6-4091-811F-EC809EE0B2C4.ipa
+Supported variant descriptors: [device: iPhone7,2, os-version: 9.0], [device: iPhone9,3, os-version: 12.2], [device: iPhone9,1, os-version: 12.2], [device: iPhone9,1, os-version: 12.0], [device: iPhone10,4, os-version: 11.0], [device: iPhone7,2, os-version: 12.0], [device: iPhone9,3, os-version: 12.0], [device: iPhone6,2, os-version: 12.2], [device: iPhone6,2, os-version: 9.0], [device: iPhone8,4, os-version: 12.0], [device: iPhone6,1, os-version: 9.0], [device: iPhone10,4, os-version: 12.2], [device: iPhone8,1, os-version: 12.2], [device: iPhone6,1, os-version: 12.0], [device: iPhone10,1, os-version: 11.0], [device: iPhone10,1, os-version: 12.0], [device: iPhone10,4, os-version: 12.0], [device: iPhone9,1, os-version: 10.0], [device: iPhone8,4, os-version: 12.2], [device: iPhone10,1, os-version: 12.2], [device: iPhone9,3, os-version: 10.0], [device: iPhone6,1, os-version: 12.2], [device: iPhone8,4, os-version: 9.0], [device: iPhone8,1, os-version: 9.0], [device: iPhone8,1, os-version: 12.0], [device: iPod7,1, os-version: 12.0], [device: iPhone7,2, os-version: 12.2], [device: iPod7,1, os-version: 12.2], [device: iPod7,1, os-version: 9.0], [device: iPhone6,2, os-version: 12.0], and [device: iPod9,1, os-version: 12.2]
+App + On Demand Resources size: 2.5 MB compressed, 5.8 MB uncompressed
+App size: 2.5 MB compressed, 5.8 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: nur-9B83D10B-4E89-4FC9-896E-C109524E63F7.ipa
+Supported variant descriptors: [device: iPhone8,4, os-version: 13.0], [device: iPhone10,4, os-version: 13.0], [device: iPhone8,1, os-version: 13.0], [device: iPhone9,3, os-version: 13.0], [device: iPhone9,1, os-version: 13.0], [device: iPhone10,1, os-version: 13.0], and [device: iPod9,1, os-version: 13.0]
+App + On Demand Resources size: 2.5 MB compressed, 5.8 MB uncompressed
+App size: 2.5 MB compressed, 5.8 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: nur-A3BBB2BA-ED4C-456A-848F-4B9816058A5C.ipa
+Supported variant descriptors: [device: iPhone12,1, os-version: 13.0] and [device: iPhone11,8, os-version: 13.0]
+App + On Demand Resources size: 2.5 MB compressed, 5.8 MB uncompressed
+App size: 2.5 MB compressed, 5.8 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: nur-A709E780-EABC-460D-92B2-4EA7C8A85C8F.ipa
+Supported variant descriptors: [device: iPad6,12, os-version: 12.0], [device: iPad4,2, os-version: 12.2], [device: iPad5,4, os-version: 12.2], [device: iPad4,2, os-version: 12.0], [device: iPad4,6, os-version: 12.2], [device: iPad4,9, os-version: 12.2], [device: iPad5,2, os-version: 12.0], [device: iPad6,7, os-version: 9.0], [device: iPad8,4, os-version: 12.0], [device: iPad7,2, os-version: 12.0], [device: iPad6,8, os-version: 9.0], [device: iPad7,5, os-version: 12.0], [device: iPad4,9, os-version: 12.0], [device: iPad4,7, os-version: 12.2], [device: iPad4,4, os-version: 12.0], [device: iPad4,6, os-version: 9.0], [device: iPad8,5, os-version: 12.2], [device: iPad4,1, os-version: 9.0], [device: iPad6,3, os-version: 12.2], [device: iPad8,8, os-version: 12.0], [device: iPad6,12, os-version: 12.2], [device: iPad11,4, os-version: 12.2], [device: iPad6,3, os-version: 12.0], [device: iPad7,4, os-version: 12.0], [device: iPad5,1, os-version: 12.0], [device: iPad6,7, os-version: 12.0], [device: iPad5,1, os-version: 9.0], [device: iPad6,4, os-version: 9.0], [device: iPad6,11, os-version: 10.0], [device: iPad7,2, os-version: 10.0], [device: iPad5,3, os-version: 12.0], [device: iPad4,5, os-version: 12.2], [device: iPad7,3, os-version: 12.2], [device: iPad7,1, os-version: 12.2], [device: iPad4,3, os-version: 12.0], [device: iPad7,6, os-version: 12.0], [device: iPad8,2, os-version: 12.0], [device: iPad6,11, os-version: 12.0], [device: iPad7,1, os-version: 10.0], [device: iPad4,8, os-version: 12.0], [device: iPad8,7, os-version: 12.2], [device: iPad4,1, os-version: 12.2], [device: iPad4,8, os-version: 12.2], [device: iPad4,7, os-version: 12.0], [device: iPad8,3, os-version: 12.2], [device: iPad4,5, os-version: 9.0], [device: iPad8,2, os-version: 12.2], [device: iPad11,1, os-version: 12.2], [device: iPad7,2, os-version: 12.2], [device: iPad7,5, os-version: 12.2], [device: iPad4,3, os-version: 9.0], [device: iPad7,6, os-version: 12.2], [device: iPad5,3, os-version: 12.2], [device: iPad8,6, os-version: 12.0], [device: iPad6,11, os-version: 12.2], [device: iPad5,4, os-version: 9.0], [device: iPad4,6, os-version: 12.0], [device: iPad5,2, os-version: 9.0], [device: iPad8,1, os-version: 12.2], [device: iPad7,4, os-version: 12.2], [device: iPad7,4, os-version: 10.0], [device: iPad7,1, os-version: 12.0], [device: iPad6,12, os-version: 10.0], [device: iPad8,8, os-version: 12.2], [device: iPad4,2, os-version: 9.0], [device: iPad6,7, os-version: 12.2], [device: iPad6,8, os-version: 12.0], [device: iPad8,7, os-version: 12.0], [device: iPad5,4, os-version: 12.0], [device: iPad4,4, os-version: 9.0], [device: iPad5,2, os-version: 12.2], [device: iPad4,5, os-version: 12.0], [device: iPad6,3, os-version: 9.0], [device: iPad4,3, os-version: 12.2], [device: iPad5,3, os-version: 9.0], [device: iPad7,5, os-version: 11.0], [device: iPad8,3, os-version: 12.0], [device: iPad8,5, os-version: 12.0], [device: iPad5,1, os-version: 12.2], [device: iPad4,9, os-version: 9.0], [device: iPad8,1, os-version: 12.0], [device: iPad7,3, os-version: 12.0], [device: iPad8,6, os-version: 12.2], [device: iPad7,6, os-version: 11.0], [device: iPad6,8, os-version: 12.2], [device: iPad4,8, os-version: 9.0], [device: iPad7,3, os-version: 10.0], [device: iPad6,4, os-version: 12.2], [device: iPad8,4, os-version: 12.2], [device: iPad11,2, os-version: 12.2], [device: iPad4,1, os-version: 12.0], [device: iPad4,4, os-version: 12.2], [device: iPad11,3, os-version: 12.2], [device: iPad6,4, os-version: 12.0], and [device: iPad4,7, os-version: 9.0]
+App + On Demand Resources size: 2.5 MB compressed, 5.8 MB uncompressed
+App size: 2.5 MB compressed, 5.8 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: nur-B019CEA7-BCD3-4B12-ACAE-02FC4262BC24.ipa
+Supported variant descriptors: [device: iPhone11,8, os-version: 12.2] and [device: iPhone11,8, os-version: 12.0]
+App + On Demand Resources size: 2.5 MB compressed, 5.8 MB uncompressed
+App size: 2.5 MB compressed, 5.8 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: nur-E3BB97AA-8513-44B3-867A-184A02CEE57C.ipa
+Supported variant descriptors: [device: iPhone10,5, os-version: 11.0], [device: iPhone11,6, os-version: 12.2], [device: iPhone10,3, os-version: 11.0], [device: iPhone11,4, os-version: 12.0], [device: iPhone9,4, os-version: 10.0], [device: iPhone10,2, os-version: 12.0], [device: iPhone10,6, os-version: 12.0], [device: iPhone9,4, os-version: 12.0], [device: iPhone9,2, os-version: 12.0], [device: iPhone10,5, os-version: 12.2], [device: iPhone10,6, os-version: 11.0], [device: iPhone8,2, os-version: 12.0], [device: iPhone10,6, os-version: 12.2], [device: iPhone11,4, os-version: 12.2], [device: iPhone7,1, os-version: 12.2], [device: iPhone8,2, os-version: 9.0], [device: iPhone10,2, os-version: 11.0], [device: iPhone11,2, os-version: 12.2], [device: iPhone9,2, os-version: 12.2], [device: iPhone10,5, os-version: 12.0], [device: iPhone10,3, os-version: 12.0], [device: iPhone9,4, os-version: 12.2], [device: iPhone11,2, os-version: 12.0], [device: iPhone8,2, os-version: 12.2], [device: iPhone10,3, os-version: 12.2], [device: iPhone9,2, os-version: 10.0], [device: iPhone11,6, os-version: 12.0], [device: iPhone10,2, os-version: 12.2], [device: iPhone7,1, os-version: 9.0], and [device: iPhone7,1, os-version: 12.0]
+App + On Demand Resources size: 2.5 MB compressed, 5.8 MB uncompressed
+App size: 2.5 MB compressed, 5.8 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: nur-F2F9E2EA-B527-4A81-A2BC-19EB715B5F8A.ipa
+Supported variant descriptors: [device: iPhone11,2, os-version: 13.0], [device: iPhone10,3, os-version: 13.0], [device: iPhone10,6, os-version: 13.0], [device: iPhone12,3, os-version: 13.0], [device: iPhone11,4, os-version: 13.0], [device: iPhone11,6, os-version: 13.0], [device: iPhone9,2, os-version: 13.0], [device: iPhone10,2, os-version: 13.0], [device: iPhone10,5, os-version: 13.0], [device: iPhone8,2, os-version: 13.0], [device: iPhone12,5, os-version: 13.0], and [device: iPhone9,4, os-version: 13.0]
+App + On Demand Resources size: 2.5 MB compressed, 5.8 MB uncompressed
+App size: 2.5 MB compressed, 5.8 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: nur-FBF967B9-58B6-42DC-912D-30D9ED0141A2.ipa
+Supported variant descriptors: [device: iPhone5,1, os-version: 9.0], [device: iPhone5,2, os-version: 9.0], [device: iPhone5,3, os-version: 9.0], [device: iPhone5,4, os-version: 9.0], [device: iPod5,1, os-version: 9.0], and [device: iPhone4,1, os-version: 9.0]
+App + On Demand Resources size: 2.6 MB compressed, 5.4 MB uncompressed
+App size: 2.6 MB compressed, 5.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: nur-FE9AFC88-AC7B-42CD-94EC-C09F951E86F2.ipa
+Supported variant descriptors: [device: iPad2,4, os-version: 9.0], [device: iPad2,1, os-version: 9.0], [device: iPad2,7, os-version: 9.0], [device: iPad2,2, os-version: 9.0], [device: iPad2,6, os-version: 9.0], [device: iPad2,3, os-version: 9.0], and [device: iPad2,5, os-version: 9.0]
+App + On Demand Resources size: 2.6 MB compressed, 5.4 MB uncompressed
+App size: 2.6 MB compressed, 5.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: nur.ipa
+Supported variant descriptors: Universal
+App + On Demand Resources size: 3.9 MB compressed, 8.8 MB uncompressed
+App size: 3.9 MB compressed, 8.8 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
